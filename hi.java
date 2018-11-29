@@ -3,5 +3,6 @@ public class hi{
 		System.out.println("Niketh");
 		System.out.println("Sameer");
 		System.out.println("Partner A");
+		System.out.println("9:2");
 	}
 }
